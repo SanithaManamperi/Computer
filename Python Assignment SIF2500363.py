@@ -8,7 +8,7 @@ Original file is located at
 """
 
 attendance_records = [
-    {"name": "Kamal Perera",     "id": "SIF001", "attended": 18, "total": 20},
+    {"name": "Kamal Perera",     "id": "SIF001", "attended": 20, "total": 40},
     {"name": "Nimal Silva",      "id": "SIF002", "attended": 12, "total": 20},
     {"name": "Sanduni Fernando", "id": "SIF003", "attended": 20, "total": 20},
 ]
